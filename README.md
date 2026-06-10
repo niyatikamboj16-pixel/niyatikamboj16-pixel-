@@ -9,7 +9,7 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn])  
+[![LinkedIn])  https://www.linkedin.com/in/niyati-kamboj-3809b1381
 [![GitHub]https://github.com/niyatikamboj16-pixel
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/ankita714)
 
