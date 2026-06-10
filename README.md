@@ -5,7 +5,7 @@
 - 🌱 Currently exploring *Cybersecurity, **Machine Learning, and **Quantum Computing*  
 - 💻 Skilled in *C++, HTML, CSS*  
 - 📊 Passionate about Research & Development  
-
+- 📙 Intrested in data science
 ---
 
 ## 🌐 Socials:
